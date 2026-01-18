@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Hero from '../components/Sections/Hero';
 import { motion } from 'framer-motion';
 
